@@ -24,7 +24,7 @@ function moatbb_jquery_migrate_notices_js() {
 add_action('admin_head', 'moatbb_jquery_migrate_notices_css');
 function moatbb_jquery_migrate_notices_css() {
 	echo '<style>
-		.jquery-migrate-deprecation-notice > p:after {
+		.jquery-migrate-deprecation-notice > p:nth-child(2):after {
 			content: " [Show/Hide warnings]";
 			cursor: pointer;
 			font-weight: bold;
