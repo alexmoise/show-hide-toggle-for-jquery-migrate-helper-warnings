@@ -1,3 +1,5 @@
+<?php 
+
 /**
  * Plugin Name: Show/Hide toggle for Jquery Migrate Helper warnings
  * Plugin URI: https://github.com/alexmoise/show-hide-toggle-for-jquery-migrate-helper-warnings
